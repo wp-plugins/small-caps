@@ -6,11 +6,11 @@ Requires at least: 2.0.2
 Tested up to: 2.6.1
 Stable tag: trunk
 
-Encloses capitalized words within `<abbr> </abbr>` tags, so that abbr tags could be styled to display small caps--for typographical effect.
+Encloses capitalized words within `&lt;abbr&gt; &lt;/abbr&gt;` tags, so that abbr tags could be styled to display small caps&mdsh;for typographical effect.
 
 == Description ==
 
-Encloses capitalized words with three or characters more within `<abbr> </abbr>` tags, so that abbr tags could be styled to display small caps--for typographical effect. More here: http://ckunte.com/archives/small-caps .
+Encloses capitalized words with three or characters more within `&lt;abbr&gt; &lt;/abbr&gt;` tags, so that abbr tags could be styled to display small caps&mdash;for typographical effect. More here: http://ckunte.com/archives/small-caps .
 
 == Installation ==
 
