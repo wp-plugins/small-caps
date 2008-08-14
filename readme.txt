@@ -6,7 +6,7 @@ Requires at least: 2.0.2
 Tested up to: 2.6.1
 Stable tag: trunk
 
-Encloses capitalized words within `<abbr> </abbr>` tags, so that abbr tags could be styled to display small caps&mdsh;for typographical effect.
+Encloses capitalized words within `abbr` tags, so that abbr tags could be styled to display small caps&mdash;for typographical effect.
 
 == Description ==
 
