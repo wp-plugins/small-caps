@@ -1,6 +1,6 @@
 === Small caps ===
 Contributors: chetan
-Donate link: http://ckunte.com/
+Donate link: http://ckunte.com/archives/in-the-repo
 Tags: smallcaps, abbr, typography
 Requires at least: 2.0.2
 Tested up to: 2.6.1
