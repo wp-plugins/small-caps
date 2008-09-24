@@ -3,7 +3,7 @@ Contributors: chetan
 Donate link: http://ckunte.com/archives/in-the-repo
 Tags: smallcaps, abbr, typography
 Requires at least: 2.0.2
-Tested up to: 2.6.1
+Tested up to:
 Stable tag: trunk
 
 Encloses capitalized words within `abbr` tags, so that abbr tags could be styled to display small caps&mdash;for typographical effect.
