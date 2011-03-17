@@ -1,26 +1,26 @@
 === Small caps ===
 Contributors: chetan
-Donate link: http://ckunte.com/archives/in-the-repo
+Donate link:
 Tags: smallcaps, abbr, typography
 Requires at least: 2.0.2
-Tested up to:
-Stable tag: trunk
+Tested up to: 3.1
+Stable tag: 1.0.1
 
 Encloses capitalized words within `abbr` tags, so that abbr tags could be styled to display small caps&mdash;for typographical effect.
 
 == Description ==
 
-Encloses capitalized words with three or characters more within `<abbr> </abbr>` tags, so that abbr tags could be styled to display small caps&mdash;for typographical effect. More here: http://ckunte.com/archives/small-caps .
+Encloses capitalized words with three or characters more within `<abbr> </abbr>` tags, so that abbr tags could be styled to display small caps&mdash;for typographical effect.
 
 == Installation ==
 
 1. Upload `small-caps.php` to the `/wp-content/plugins/` folder.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Add the following styling to your style.css file:
+3. The following styling is now part of the plugin code:
 
 abbr { text-transform:lowercase; font-variant:small-caps }
 
-Optional: If you prefer this to be automatically added to the header of your template, across the themes without editing them yourself manually to add the above styling, then, you may uncomment lines 32 through to 38 in the plugin file `small-caps.php` .
+Optional: If you prefer to custom-style the appearance of small caps, then, you may comment lines 27 through to 33 in the plugin file `small-caps.php`, and then add the custom styling in your theme's style.css file.
 
 == Frequently Asked Questions ==
 
