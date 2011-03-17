@@ -5,7 +5,7 @@ Plugin URI: http://wordpress.org/extend/plugins/small-caps/
 Description: Small caps for capitalized words. This plugin looks for sequences of 3 or more uppercase letters or numbers, such as CSS, HTML and W3C, and wraps an `&lt;abbr&gt;` tag around them. Credits to <a href="http://webtypography.net/">Webtypography</a> for the function, and for inspiration.
 Version: 1.0.1
 Author: Chyetanya Kunte
-Author URI: http://ckunte.net/
+Author URI: http://ckunte.net
 */
 //
 // This function looks for sequences of 3 or more uppercase letters or numbers, 

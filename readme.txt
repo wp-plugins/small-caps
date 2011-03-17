@@ -1,10 +1,10 @@
 === Small caps ===
 Contributors: chetan
-Donate link: http://ckunte.com/archives/in-the-repo
+Donate link:
 Tags: smallcaps, abbr, typography
 Requires at least: 2.0.2
 Tested up to: 3.1
-Stable tag: trunk
+Stable tag: 1.0.1
 
 Encloses capitalized words within `abbr` tags, so that abbr tags could be styled to display small caps&mdash;for typographical effect.
 
