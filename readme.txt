@@ -4,7 +4,7 @@ Donate link:
 Tags: smallcaps, abbr, typography
 Requires at least: 2.0.2
 Tested up to: 3.2.1
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 
 Encloses capitalized words within `abbr` tags, so that abbr tags could be styled to display small caps&mdash;for typographical effect.
 
